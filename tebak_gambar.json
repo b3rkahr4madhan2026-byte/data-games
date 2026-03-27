@@ -1,0 +1,124 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Animals",
+      "image_url": "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/animals0.png",
+      "bg_left_url": "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/bglevelsl0.png",
+      "bg_right_url": "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/bglevelsr0.png",
+      "game_images": [
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/animals0.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/animals1.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/animals2.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/animals3.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/animals4.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/animals5.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/animals6.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/animals7.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/animals8.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/animals9.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/animals10.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/animals11.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/animals12.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/animals13.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/animals14.png"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Fruits",
+      "image_url": "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/fruits.png",
+      "bg_left_url": "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/bglevelsl1.png",
+      "bg_right_url": "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/bglevelsr1.png",
+      "game_images": [
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/fruits0.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/fruits1.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/fruits2.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/fruits3.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/fruits4.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/fruits5.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/fruits6.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/fruits7.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/fruits8.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/fruits9.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/fruits10.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/fruits11.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/fruits12.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/fruits13.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/fruits14.png"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "School",
+      "image_url": "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/school.png",
+      "bg_left_url": "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/bglevelsl2.png",
+      "bg_right_url": "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/bglevelsr2.png",
+      "game_images": [
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/school0.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/school1.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/school2.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/school3.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/school4.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/school5.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/school6.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/school7.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/school8.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/school9.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/school10.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/school11.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/school12.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/school13.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/school14.png"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Beach",
+      "image_url": "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/beach.png",
+      "bg_left_url": "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/bglevelsl3.png",
+      "bg_right_url": "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/bglevelsr3.png",
+      "game_images": [
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/beach0.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/beach1.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/beach2.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/beach3.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/beach4.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/beach5.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/beach6.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/beach7.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/beach8.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/beach9.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/beach10.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/beach11.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/beach12.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/beach13.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/beach14.png"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Transport",
+      "image_url": "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/transport.png",
+      "bg_left_url": "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/bglevelsl4.png",
+      "bg_right_url": "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/bglevelsr4.png",
+      "game_images": [
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/transport0.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/transport1.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/transport2.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/transport3.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/transport4.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/transport5.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/transport6.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/transport7.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/transport8.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/transport9.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/transport10.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/transport11.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/transport12.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/transport13.png",
+        "https://github.com/b3rkahr4madhan2026-byte/data-games/blob/main/transport14.png"
+      ]
+    }
+  ]
+}
